@@ -10,7 +10,7 @@ import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 
 /**
- * This class contains all of the item groups used in the mod.
+ * This class contains all the item groups used in the mod.
  */
 public class ModItemGroups {
     /**
