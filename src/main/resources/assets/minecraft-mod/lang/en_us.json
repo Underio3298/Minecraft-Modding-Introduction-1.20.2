@@ -1,4 +1,6 @@
 {
   "item.minecraft-mod.ruby": "Ruby",
-  "item.minecraft-mod.raw_ruby": "Raw Ruby"
+  "item.minecraft-mod.raw_ruby": "Raw Ruby",
+
+  "itemgroup.ruby": "Ruby Group"
 }
