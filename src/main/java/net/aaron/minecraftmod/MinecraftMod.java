@@ -1,5 +1,6 @@
 package net.aaron.minecraftmod;
 
+import net.aaron.minecraftmod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -12,5 +13,6 @@ public class MinecraftMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		LOGGER.info(MOD_ID + " has been initialized.");
+		ModItems.registerModItems();
 	}
 }
