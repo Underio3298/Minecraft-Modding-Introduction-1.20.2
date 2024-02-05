@@ -1,5 +1,6 @@
 package net.aaron.minecraftmod;
 
+import net.aaron.minecraftmod.block.ModBlocks;
 import net.aaron.minecraftmod.item.ModItemGroups;
 import net.aaron.minecraftmod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
@@ -28,6 +29,8 @@ public class MinecraftMod implements ModInitializer {
         ModItems.registerModItems();
         // Register the item groups
         ModItemGroups.registerItemGroups();
+        // Register the blocks
+        ModBlocks.registerModBlocks();
         // Log that the mod has been initialized
         LOGGER.info(MOD_ID + " has been initialized.");
     }
