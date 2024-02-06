@@ -2,5 +2,8 @@
   "item.minecraft-mod.ruby": "Ruby",
   "item.minecraft-mod.raw_ruby": "Raw Ruby",
 
-  "itemgroup.ruby": "Ruby Group"
+  "block.minecraft-mod.ruby_block": "Block of Ruby",
+  "block.minecraft-mod.raw_ruby_block": "Block of Raw Ruby",
+
+  "itemgroup.minecraftmod": "Minecraft Mod"
 }
