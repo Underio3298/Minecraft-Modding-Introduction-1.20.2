@@ -3,11 +3,12 @@
 	"id": "minecraft-mod",
 	"version": "${version}",
 	"name": "Minecraft Mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "1.20.2 Minecraft Mod for learning",
 	"authors": [
-		"Me!"
+		"under"
 	],
 	"contact": {
+    "discord": "underio",
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
